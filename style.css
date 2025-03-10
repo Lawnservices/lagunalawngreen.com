@@ -8,8 +8,14 @@
   border-radius: .2rem;
   cursor: pointer;
 }
-  
+#mas{
+  width: 100%;
+  height: auto;
+  background: linear-gradient(90%, green 1.47%, blue 98.47%);
+  background-repeat: no-repeat;
+}  
 #titulo{
+  
   text-align: center;
   color: #003349;
   font-family: Georgia, 'Times New Roman', Times, serif;
